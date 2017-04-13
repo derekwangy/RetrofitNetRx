@@ -8,8 +8,6 @@ package com.derek.net.retrofitnetrx.net;
  */
 public class HttpUrl {
 
-    //public static final String REQUEST_URL = "http://shop.demo580.com/";
-
     public static final String REQUEST_URL = "http://testcgj.chemayi.com/";
 
 

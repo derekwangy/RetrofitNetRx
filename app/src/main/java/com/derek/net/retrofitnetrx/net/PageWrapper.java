@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * @author shenxingzhe
- * @Description: 类的描述 -
+ * @Description: 类的描述 - 分页
  * @date 2017/4/13.
  * @email yong.wang@chemayi.com
  */
