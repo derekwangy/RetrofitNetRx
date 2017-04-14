@@ -99,7 +99,7 @@ public class TextActivity extends BaseActivity implements View.OnClickListener{
 
                         @Override
                         public void onError(int errorCode, String errorMsg) {
-
+                            Toast.makeText(TextActivity.this,""+errorMsg,Toast.LENGTH_LONG).show();
                         }
                 });
     }
@@ -120,7 +120,7 @@ public class TextActivity extends BaseActivity implements View.OnClickListener{
 
                     @Override
                     public void onError(int errorCode, String errorMsg) {
-
+                        Toast.makeText(TextActivity.this,""+errorMsg,Toast.LENGTH_LONG).show();
                     }
                 });
     }
